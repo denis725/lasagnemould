@@ -17,5 +17,5 @@ The advantage of this is that you can directly instantiate the layers,
 including the use of *args instead of using factories without the need
 to specify the _incoming_ keyword.
 
-See [here](http://nbviewer.ipython.org/github/BenjaminBossan/lasagnemould/blob/master/mould.ipynb)
+See [here](http://nbviewer.ipython.org/github/BenjaminBossan/lasagnemould/blob/master/example/mould.ipynb)
 for how this initialization differs from the default initialization.
